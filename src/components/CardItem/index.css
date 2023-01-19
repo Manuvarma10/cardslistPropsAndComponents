@@ -1,0 +1,89 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  background-color: #ffffff;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 10px;
+  /* margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px; */
+  list-style-type: none;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  background-color: #ffffff;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 10px;
+  list-style-type: none;
+  /* margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px; */
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  background-color: #ffffff;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 10px;
+  list-style-type: none;
+  /* margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px; */
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  background-color: #ffffff;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 10px;
+  list-style-type: none;
+  /* margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px; */
+}
+
+/* Write CSS code here. */
+.card-container {
+  margin-right: 50px;
+  padding: 20px 20px;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+  color: #171f46;
+}
+h1 {
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: bold;
+  color: #171f46;
+}
+
+.discription {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: normal;
+  color: #64748b;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.image {
+  width: 30%;
+  margin-top: 20px;
+}
+.image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
